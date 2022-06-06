@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@cq%h&&d9p04jnvte^=lvwugt)z_7xc=&1z0y&+g!%)%@^z*-2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','admin','polls/','protected-citadel-99493']
+ALLOWED_HOSTS = ['protected-citadel-99493','127.0.0.1']
 
 
 
